@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "1f071aab81889bb331f8",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\BabyCrushRage\\Desktop\\Portfolio\\client\\build\\static",
+  "assetsByChunkName": {
+    "client": "client.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "client.module.js",
+      "size": 5269154,
+      "chunks": [
+        "client"
+      ],
+      "chunkNames": [
+        "client"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 48257,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "client": {
+      "chunks": [
+        "client"
+      ],
+      "assets": [
+        "client.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "client": {
+      "chunks": [
+        "client"
+      ],
+      "assets": [
+        "client.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
